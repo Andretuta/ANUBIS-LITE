@@ -1,0 +1,1 @@
+apt install zip unzip -y && zip -r DADOS.zip DADOS && mv DADOS.zip ../ && cd .. && rm -rf anubis-lite && git clone https://github.com/ANUBIS-TEAM/anubis-lite.git && rm -rf ./anubis-lite/DADOS && mv DADOS.zip anubis-lite && cd anubis-lite && unzip DADOS.zip && sh start.sh
