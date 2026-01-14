@@ -123,7 +123,7 @@ Edite o arquivo `dados/settings.json` com suas configurações:
 ## 📞 Suporte
 
 <p align="center">
-<a href="https://wa.me/5500000000000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://wa.me/5571993586391"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://github.com/andre"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
